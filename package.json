@@ -1,0 +1,21 @@
+{
+  "name": "cord-plug-iosparh-mockup",
+  "version": "1.0.0",
+  "description": "ViewerInterface iOS paths mockup",
+  "cordova": {
+    "id": "cord-plug-iosparh-mockup",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterekhov/iospath_mockup.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
